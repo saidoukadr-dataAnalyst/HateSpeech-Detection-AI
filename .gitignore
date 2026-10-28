@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.zip
+*.parquet
+*.npy
+*.pth
+*.pkl
+dataset.json
+post_id_divisions.json
+hate_speech_logs.json
